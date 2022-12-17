@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "optical-flow-for-free-weight-training-analysis"
+version = "0.1.0"
+description = ""
+authors = ["kondounagi <kondounagi@gmail.com>"]
+readme = "README.md"
+packages = [{include = "optical_flow_for_free_weight_training_analysis"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
