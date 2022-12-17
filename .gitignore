@@ -624,3 +624,5 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudio,linux,windows,vim
 
+input/
+output/
