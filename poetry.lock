@@ -25,7 +25,7 @@ numpy = [
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "7c44db549b0098ae4627659c7e536e0c46a20e56ebda5700beee29ef901e05f8"
+content-hash = "5a474d7c6d2364a60db65a5d0dfd09ce7b7584235e9b5d163b260870025cdee8"
 
 [metadata.files]
 numpy = [
